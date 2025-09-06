@@ -1,0 +1,21 @@
+---
+title: "Learning Generative Artificial Intelligence - Use-Cases"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# Master Generative Artificial Intelligence
+
+```{mermaid}
+flowchart LR
+  A[Learner] --> B(UC: Master Generative Artifical Intelligence - Build an AI Agent from Scratch)
+  A[Learner] --> C(UC: Master Generative Artifical Intelligence - B)
+  A[Learner] --> D(UC: Master Generative Artifical Intelligence - C)
+  A[Learner] --> E(UC: Master Generative Artifical Intelligence - D)  
+  B --> F{Abstract UC: Master Generative Artifical Intelligence}
+  C --> F{Abstract UC: Master Generative Artifical Intelligence}
+  D --> F{Abstract UC: Master Generative Artifical Intelligence}
+  E --> F{Abstract UC: Master Generative Artifical Intelligence}
+```
