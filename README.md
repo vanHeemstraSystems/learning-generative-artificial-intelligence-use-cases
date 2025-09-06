@@ -1,7 +1,7 @@
 [![Quarto Publish](https://github.com/vanHeemstraSystems/learning-generative-artificial-intelligence-use-cases/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-generative-artificial-intelligence-use-cases/actions/workflows/publish.yml)
 
-# learning-generative-artificial-intelligence-use-cases
-Learning Generative Artificial Intelligence - Use Cases
+learning-generative-artificial-intelligence-use-cases
+# Learning Generative Artificial Intelligence - Use Cases
 
 Part of "Learning - Generative Artificial Intelligence" at https://github.com/vanHeemstraSystems/learning-generative-artificial-intelligence
 
