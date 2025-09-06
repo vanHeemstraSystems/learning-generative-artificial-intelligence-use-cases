@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning Generative Artificial Intelligence - Use-Cases",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Generative Artificial Intelligence\n\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Generative Artifical Intelligence - Build an AI Agent from Scratch)\n  A[Learner] --&gt; C(UC: Master Generative Artifical Intelligence - B)\n  A[Learner] --&gt; D(UC: Master Generative Artifical Intelligence - C)\n  A[Learner] --&gt; E(UC: Master Generative Artifical Intelligence - D)  \n  B --&gt; F{Abstract UC: Master Generative Artifical Intelligence}\n  C --&gt; F{Abstract UC: Master Generative Artifical Intelligence}\n  D --&gt; F{Abstract UC: Master Generative Artifical Intelligence}\n  E --&gt; F{Abstract UC: Master Generative Artifical Intelligence}"
+  },
+  {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nLearning Generative Artificial Intelligence - Use Cases"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
